@@ -1,2 +1,2 @@
-## note holder for directory same level as _posts
+## notes on images
 *just holding open the directories (can't be empty)*
