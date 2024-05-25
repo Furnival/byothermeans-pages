@@ -1,1 +1,3 @@
-# holding open file directory
+# holding open file directory same level as _posts
+
+
