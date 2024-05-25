@@ -1,4 +1,4 @@
-Notes on images and custom css:
+Notes on images and custom css under _posts/assets:
 GitHub Pages is based on Jekyll, which expects graphic images and custom CSS to be in a directory named assets.
 
 While you can store any kind of file in a GitHub directory, certain files get better treatment than others. If you want image files in your repo to display, or to customize the CSS, the easiest way is to follow Jekyll conventions and create an assets directory. Here's how to do it in GitHub Pages. The assets directory should contain subdirectories for CSS and images.
